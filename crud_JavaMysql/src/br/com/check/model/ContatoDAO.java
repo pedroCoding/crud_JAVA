@@ -2,7 +2,7 @@ package br.com.check.model;
 
 import java.util.Date;
 
-public class Agenda {
+public class ContatoDAO {
 	
 	private int id;
 	private String nome;
